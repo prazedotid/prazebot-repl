@@ -1,0 +1,28 @@
+{
+  "name": "@prazeblaze/prazebot-repl",
+  "version": "0.1.0",
+  "description": "REPL plugin for PrazeBot-Discord",
+  "main": "index.js",
+  "keywords": [
+    "repl",
+    "discord"
+  ],
+  "author": {
+    "name": "Galih Prastian",
+    "email": "galihpras33@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prazeblaze/prazebot-repl"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "cliffy": "^1.8.1",
+    "deep-extend": "^0.6.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "table": "^5.1.0",
+    "vorpal": "^1.12.0"
+  }
+}
